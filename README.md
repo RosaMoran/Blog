@@ -1,13 +1,14 @@
-# Blog
+# GraphCMS Headless Blog
+### [Live Site](https://nextjs-plum-five-51.vercel.app/)
 
-## run 
+![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
 
-`npx json-server --watch data/db.json --port 8000`
+## Stay up to date with new projects
+New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
 
-Resources
- ` http://localhost:8000/blogs`
+## Introduction
+This is a code repository for the corresponding video tutorial. 
 
- ## run npm run start to run locally 
+With featured and recent posts, categories. full markdown articles, author information, comments, and much more, this fully responsive CMS Blog App is the best Blog Application that you can currently find on YouTube. And what's best of all is that you and your clients can manage the blog from a dedicated Content Management System.
 
- `http://localhost:3000`
- 
+You'll also learn how to work with GraphCMS. GraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
